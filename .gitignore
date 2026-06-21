@@ -1,0 +1,8 @@
+# ignore readme.md
+README.md
+
+# ignore side.txt in directory build
+build/side.txt
+
+# ignore all files with .doc
+*.doc
